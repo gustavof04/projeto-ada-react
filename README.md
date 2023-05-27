@@ -1,6 +1,6 @@
 # Projeto React com Vite
 
-Lista de tarefas simples em latim utilizando a API JSONPlaceholder feita com HTML, CSS, JavaScript e React + Vite demonstrando o conhecimento adquirido no curso Trilha Digital | Web Front-End da Ada Tech.
+Lista de tarefas simples em latim utilizando a API JSONPlaceholder. Foi feita com HTML, CSS, JavaScript e React + Vite demonstrando o conhecimento adquirido no curso Trilha Digital | Web Front-End da Ada Tech.
 
 ## Tecnologias utilizadas
 Node.js V.: 18.16.0 || React V.: 18.2.0 || Vite V.: 4.3.2
