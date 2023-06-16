@@ -1,6 +1,6 @@
 # Projeto React com Vite
 
-Lista de tarefas simples em latim utilizando a API JSONPlaceholder. Foi feita com HTML, CSS, JavaScript e React + Vite demonstrando o conhecimento adquirido no curso Trilha Digital | Web Front-End da Ada Tech. 
+Lista de tarefas simples em latim consumindo a API JSONPlaceholder. Foi feita com HTML, CSS, JavaScript e React + Vite demonstrando o conhecimento adquirido no curso Trilha Digital | Web Front-End da Ada Tech. 
 
 O intuito do projeto é, além de testar as tecnologias, integrá-lo na plataforma de nuvem Vercel. Caso você tenha uma conta na Vercel, veja o projeto diretamente com o link abaixo:
 
